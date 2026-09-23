@@ -1,4 +1,4 @@
-# AlphaFlow Studio v10.0.3 — Stable
+# AlphaFlow OS v10.0.3 — Stable
 
 **Release date:** 2026-09-23 · **Tag:** `v10.0.3` · **Channel:** `stable`
 **Upgrade from:** any `10.0.x` (in-place, no migration) · **Breaking changes:** none
